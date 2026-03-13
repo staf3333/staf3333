@@ -34,4 +34,4 @@ Go • C# • Azure • Distributed Systems
 
 ## Contact
 
-LinkedIn: (your link)
+LinkedIn: [mustafa-shabazz](https://www.linkedin.com/in/mustafa-shabazz-734415151/)
